@@ -1,0 +1,138 @@
+What does ORG stand for?	NNP	ORG
+What does GPE mean?	NNP	GPE
+What year did ORG begin?	NNP	ORG
+Who is the CEO of ORG?	NNP	ORG
+What is the largest forest in the GPE? 	NNPS	GPE
+What is the largest forest in GPE?	NNP	GPE
+When did Person live?	NNPS	PERSON
+When did PERSON live?	NNP	PERSON
+What is PERSON 's real name?	NNP	PERSON
+What does GPE stand for?	NNP	GPE
+What is a person that lives in GPE called?	NN	GPE
+What is a person that lives in GPE called?	NNP	GPE
+What is the ISO code for GPE?	NNP	GPE
+What is the ISO code for GPE?	NN	GPE
+What is GPE?	NN	GPE
+What is GPE?	NNP	GPE
+How many oil refineries are there in GPE?	NNP	GPE
+What are the ethnolinguistic groups in GPE?	NNP	GPE
+What is the coldest temperature in GPE?	NNP	GPE
+What is PERSON 's full name?	NNP	PERSON
+What is the national animal of GPE?	NNP	GPE
+What is the name of GPE 's soccer team?	NNP	GPE
+What was PERSON‘s real name?	NNP	PERSON
+What is the longest river of GPE?	NNP	GPE
+Where did PERSON grow up?	NNP	PERSON
+What is the major religion in GPE?	NNP	GPE
+How long has PERSON been around?	NNP	PERSON
+When is PERSON‘s birthday?	NNP	PERSON
+What year was ORG founded?	NNP	ORG
+Who is PERSON?	NNP	PERSON
+When was PERSON born?	NNP	PERSON
+What 's the capital of GPE?	NNP	GPE
+Where can you get PRODUCT?	NNPS	PRODUCT
+Where can you get PRODUCT?	NNS	PRODUCT
+Where can you get PRODUCT?	NNP	PRODUCT
+Where can you get PRODUCT?	NN	PRODUCT
+Who makes PRODUCT?	NNS	PRODUCT
+Who makes PRODUCT?	NNPS	PRODUCT
+Who makes PRODUCT?	NNP	PRODUCT
+Who makes PRODUCT?	NN	PRODUCT
+What is the oldest PRODUCT?	NN	PRODUCT
+What is the oldest PRODUCT?	NNP	PRODUCT
+Where did PERSON come from?	NNP	PERSON
+What does ORG stand for?	NN	ORG
+What in the world is ORG?	NNP	ORG
+What is the largest city in LOC?	NNP	LOC
+What does ORG stand for?	NNP	ORG
+What is PERSON 's address?	NNP	PERSON
+What is the capital city of GPE?	NN	GPE
+Who is in charge of ORG?	NNP	ORG
+Who are PERSON‘s parents?	NNP	PERSON
+What language do people in GPE speak?	NNP	GPE
+What ethnicity is PERSON?	NNP	PERSON
+Where did PERSON grow up?	NNP	PERSON
+What is the meaning of ORG?	NNP	ORG
+What nationality is PERSON?	NNP	PERSON
+Who is ORG‘s founder?	VBG	ORG
+What 's PERSON 's real name?	NNP	PERSON
+When was GPE founded?	NNP	GPE
+Where did PERSON live?	NNP	PERSON
+What continent is GPE on?	NNP	GPE
+What is GPE?	NNP	GPE
+What is GPE?	NN	GPE
+Where was PERSON born?	NNP	PERSON
+What is the capital in GPE?	NNP	GPE
+Where did PERSON go to school?	NNP	PERSON
+What country did PERSON hail from?	NNP	PERSON
+What does NORP mean?	NNP	NORP
+What college did PERSON go to?	NNP	PERSON
+What is the FAC made out of?	NNP	FAC
+What s the capital city of GPE?	NNP	GPE
+Who is the inventor of the FAC?	NNP	FAC
+What is the capital of GPE?	NN	GPE
+What is the capital city of GPE?	NNP	GPE
+What does PERSON mean?	NNP	PERSON
+How many people live in LOC?	NNP	LOC
+How strong is PERSON?	NNP	PERSON
+Where was PERSON born?	NNP	PERSON
+When were PRODUCT invented?	NNPS	PRODUCT
+When were PRODUCT invented?	NNS	PRODUCT
+When was PRODUCT invented?	NN	PRODUCT
+When was PRODUCT invented?	NNP	PRODUCT
+What 's the meaning of ORG?	NN	ORG
+Who 's the President of GPE?	NNP	GPE
+For what purpose was PRODUCT first created?	NNP	PRODUCT
+Where is ORG located ?	NNP	ORG
+Where does the name PERSON come from?	NNP	PERSON
+When is PERSON 's Birthday?	NNP	PERSON
+What kind of government does GPE have?	NNP	GPE
+Where does PERSON live , what state and city?	NNP	PERSON
+What is PERSON 's last name?	NNP	PERSON
+What nationality is PERSON?	NNP	PERSON
+What kind of Government does GPE have?	NNP	GPE
+Who is the creator of WORK_OF_ART?	NN	WORK_OF_ART
+What does WORK_OF_ART stand for?	NN	WORK_OF_ART
+When was WORK_OF_ART created?	NN	WORK_OF_ART
+"What is the most famous "" WORK_OF_ART "" in history?"	NN	WORK_OF_ART
+What is the name of the national bird in GPE?	NNP	GPE
+What does ORG stand for?	NNP	ORG
+Does PERSON have a Middle Name?	NNP	PERSON
+When was ORG founded?	NNP	ORG
+What is GPE state bird?	NNP	GPE
+When was GPE‘s capital established?	NNP	GPE
+How tall is PERSON?	NNP	PERSON
+What is PERSON 's full name?	NNP	PERSON
+What is the oldest mountain chain in GPE?	NNP	GPE
+Where Did PERSON Go To College?	NNP	PERSON
+Who do you call someone from GPE?	NNP	GPE
+What year did GPE become a democratic country?	NNP	GPE
+What language do they speak in GPE?	NN	GPE
+What is PERSON 's Last Name?	NNP	PERSON
+Who is PERSON?	NNP	PERSON
+What is PERSON 's full name?	NNP	PERSON
+What 's the capitol of GPE?	NNP	GPE
+Who is PERSON in love with?	NNP	PERSON
+Which country is northwest of GPE?	NNP	GPE
+What is GPE 's national sport?	NNP	GPE
+What year was PERSON born in?	NNP	PERSON
+What is the capital of GPE?	NNP	GPE
+What is the main religion in GPE?	NNP	GPE
+What is the official name of GPE?	NNP	GPE
+Which year was PERSON born?	NNP	PERSON
+What race is PERSON?	NNP	PERSON
+What is the largest city in GPE?	NNP	GPE
+Who is the ruler of GPE?	NNP	GPE
+What do you call a person from GPE?	NNP	GPE
+What language do NORP speak?	NNPS	NORP
+What does ORG mean?	NNP	ORG
+How big is FAC?	NN	FAC
+When was FAC built? 	NN	FAC
+Who is the architect of FAC?	NN	FAC
+Where is FAC located?	NN	FAC
+What language family does LANGUAGE belong to?	NNP	LANGUAGE
+How many people speak LANGUAGE?	NNP	LANGUAGE
+Is it hard to learn LANGUAGE?	NNP	LANGUAGE
+When did EVENT take place?	NNP	EVENT
+Who goes to EVENT?	NNP	EVENT
+Where does EVENT take place?	NNP	EVENT

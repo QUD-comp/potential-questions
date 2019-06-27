@@ -1,4 +1,4 @@
-# Generating potential questions
+# generating potential questions
 project of potsdam university
 
 given a certain context (a sentence), we want to generate potential follow-up questions. these have to be ranked by the complementary module 'ranking potential questions'. the application can be used in chatbot systems, for instance.
